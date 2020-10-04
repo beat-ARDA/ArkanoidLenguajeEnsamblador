@@ -1,7 +1,0 @@
-﻿  Assembling Main.asm...
-Main.asm(127): warning A6004: procedure argument or local not referenced : hPrevInst
-Main.asm(127): warning A6004: procedure argument or local not referenced : CmdLine
-Main.asm(127): warning A6004: procedure argument or local not referenced : CmdShow
-Main.asm(127): warning A6004: procedure argument or local not referenced : msg1
-Main.asm(537): warning A6004: procedure argument or local not referenced : contadorColumnaBloque
-  ArkanoidEnsamblador.vcxproj -> C:\Users\e-arduron\Documents\Assembler\ArkanoidEnsamblador\Debug\ArkanoidEnsamblador.exe
