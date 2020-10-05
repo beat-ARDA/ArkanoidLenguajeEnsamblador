@@ -1,0 +1,105 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Inglés (Estados Unidos) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Inglés (Estados Unidos) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Español (México) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ESM)
+LANGUAGE LANG_SPANISH, SUBLANG_SPANISH_MEXICAN
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_FONDO               BITMAP                  "FondoArkanoid.bmp"
+
+IDB_FONDOBOTONJUGAR     BITMAP                  "FondoBotonJugar.bmp"
+
+IDB_FONDOBOTONPUNTUACIONES BITMAP                  "FondoBotonPuntuaciones.bmp"
+
+IDB_FONDOBOTONSALIR     BITMAP                  "FondoBotonSalir.bmp"
+
+IDB_FONDOJUGAR          BITMAP                  "FondoArkanoidJuego.bmp"
+
+IDB_FONDOGANASTE        BITMAP                  "FondoArkanoidGanaste.bmp"
+
+IDB_FONDOPERDISTE       BITMAP                  "FondoArkanoidPerdiste.bmp"
+
+IDB_FONDOPUNTUACIONES   BITMAP                  "FondoArkanoidPuntuaciones.bmp"
+
+IDB_PLAYER              BITMAP                  "Player.bmp"
+
+IDB_PELOTA              BITMAP                  "Pelota.bmp"
+
+IDB_BLOQUEROJO          BITMAP                  "BloqueRojo.bmp"
+
+IDB_BLOQUEGRIS          BITMAP                  "BloqueGris.bmp"
+
+IDB_BLOQUEGRISAGRIETADO BITMAP                  "BloqueGrisAgrietado.bmp"
+
+IDB_FONDOCONTINUAR             BITMAP                  "FondoBotonContinuar.bmp"
+
+#endif    // Español (México) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
